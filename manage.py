@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# add comment ookkk tambah lagi
+# add comment
 import os
 import sys
 
